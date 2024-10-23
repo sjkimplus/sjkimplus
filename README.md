@@ -14,16 +14,16 @@ I am an aspiring Web Backend Software Engineer with a solid foundation in Econom
 * __Skills Deployed__: wireframing, Entity Relationship Diagram (ERD), OOP, CI/CD.
 * __Tools Used__: Springboot, REST API, MySQL, JPQL, JPA, JUnit, Github Actions, AWS
 
-### [Tazza of Delivery Project](github link)
+### [Tazza of Delivery Project](https://github.com/sjkimplus/tazza-of-delivery)
 * __Aim__: a food delivery application that allows store owners to register their menus and general users to order food.
 * __Skills Deployed__: prototyping, wireframing, UX/UI research, competitor an analysis
 * __Tools Used__: Springboot, REST API, MySQL, JPQL, JPA, JUnit
 
 ## Data Analysis
 ### [NYT textual analysis](https://github.com/sjkimplus/portfolio/tree/main/nyt_news_textual_analysis)
-* __Aim__: 
-* __Skills Deployed__: 
-* __Tools Used__: 
+* __Aim__: Collected NYT news article data to analyze the change in public sentiment toward the LGBTQ community over a 10-year period.
+* __Skills Deployed__: web-scraping, public API, LDA Topic Modeling
+* __Tools Used__: Python, Beautiful Soup
 capstone
 
 ## Autimation Tool
