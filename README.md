@@ -9,7 +9,7 @@ I am an aspiring Web Backend Software Engineer with a solid foundation in Econom
 
 # 🛠️ Major Projects 🛠️
 ## Software Engineering
-### [Trello Clone Coding Project](https://github.com/jk021227/workportfolio/tree/main/Ponyo%20-%20Neurodivergence%20Aid)
+### [Trello Clone Coding Project](https://github.com/sjkimplus/spring-trello)
 * __Aim__: a work productivity application that facilitates online collaboration.
 * __Skills Deployed__: wireframing, Entity Relationship Diagram (ERD), OOP, CI/CD.
 * __Tools Used__: Springboot, REST API, MySQL, JPQL, JPA, JUnit, Github Actions, AWS
