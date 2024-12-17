@@ -9,18 +9,20 @@ I am an aspiring Web Backend Software Engineer with a solid foundation in Econom
 
 # 🛠️ Major Projects 🛠️
 ## Software Engineering
+
+### [Hi-Clear: Badminton Social App](https://github.com/sjkimplus/hi-clear)
+* __Aim__: Social app for badminton players where people can book private courts, check occupancy level of public courts, sign up for badminton clubs and one-time matches.
+* __Skills Deployed__: wireframing, Entity Relationship Diagram, CI/CD, unit testing, stress testing, concurrency control, R-Tree spacial indexing.
+* __Tools Used__: Springboot, REST API, MySQL, Redis, JPQL, JPA, QueryDSL, Locust, JUnit, Github Actions, AWS (ECS, EC2, RDS, ECR), Docker, Figma.
+
 ### [Trello Clone Coding Project](https://github.com/sjkimplus/spring-trello)
 * __Aim__: a work productivity application that facilitates online collaboration.
-* __Skills Deployed__: wireframing, Entity Relationship Diagram (ERD), OOP, CI/CD.
-* __Tools Used__: Springboot, REST API, MySQL, JPQL, JPA, JUnit, Github Actions, AWS
+* __Skills Deployed__: wireframing, Entity Relationship Diagram, OOP, CI/CD.
+* __Tools Used__: Springboot, REST API, MySQL, JPQL, JPA, JUnit, Github Actions, AWS, Figma.
 
-### [Tazza of Delivery Project](https://github.com/sjkimplus/tazza-of-delivery)
-* __Aim__: a food delivery application that allows store owners to register their menus and general users to order food.
-* __Skills Deployed__: prototyping, wireframing, UX/UI research, competitor an analysis
-* __Tools Used__: Springboot, REST API, MySQL, JPQL, JPA, JUnit
 
 ## Data Analysis
-### [NYT textual analysis](https://github.com/sjkimplus/portfolio/tree/main/nyt_news_textual_analysis)
+### [NYT textual analysis](https://docs.google.com/presentation/d/14dcaAnH0qi8ryF7HkhsspCrOEmRhXUi0G8RvkCZkCIM/edit?usp=sharing)
 * __Aim__: Collected NYT news article data to analyze the change in public sentiment toward the LGBTQ community over a 10-year period.
 * __Skills Deployed__: web-scraping, public API, LDA Topic Modeling
 * __Tools Used__: Python, Beautiful Soup
@@ -34,7 +36,7 @@ capstone
 
 **If you want to see more of my minor projects, please head to my [workportfolio](https://github.com/sjkimplus/portfolio).**
 
-# 🏆 Awards & Competitions 🏆
+# 🏆 Awards 🏆
 - Best Behavioral Economics Capstone 2024 | May 2024 
 - 1st place, The Graces Ideathon | February 2024 | 1300 USD cash prize
     - Pitched a tech-driven solution with computer vision and AR/VR/AI to solve the food waste produced in the UAE, specifically during Ramadan
@@ -42,8 +44,13 @@ capstone
 - 3rd place, IMA Student Case Competition Middle East | May 2022 | 500 USD cash prize
     - Presented a case advising a local Singaporean business in areas of economic growth and user retention
     - [Pitch Deck](https://docs.google.com/presentation/d/1LUkWI9RbDt2csNOSsCo-aPYvB_qGfqwrYS0xgfFaKzE/edit?usp=sharing)
+ 
+# 🌟 Certification 🌟
+- CFA level 1 | February 2023
+- Bloomberg Market Concepts Certification | April 2022
 
-### 🗳️ Contacts
+### 🤝 Contacts & Socials
 - 📧 E-mail: sjkim20010909@gmail.com
 - 🌐 [Linkedin](https://www.linkedin.com/in/sungju-kim-85399a210)
+- ✏️ [Tech Blog (velog)] (https://velog.io/@sjkimplus09/posts)
 
