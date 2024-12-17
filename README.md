@@ -1,21 +1,21 @@
 # 👩🏻‍💻 About Me 👩🏻‍💻
-I am an aspiring Web Backend Software Engineer with a solid foundation in Economics and Finance. My strengths lie in quickly adapting to diverse and novel challenges, producing detailed documentation (such as technical blogs), and conducting thorough reviews (both code and others). These skills are especially valuable in remote work settings, where communication happens exclusively through online platforms and project updates are implemented at a fast pace.
+I am an aspiring Web Backend Software Engineer with a solid foundation in Economics and Finance. My strengths lie in quickly adapting to diverse and novel challenges, producing detailed documentation (such as technical blogs), and conducting thorough reviews of my work. These skills are especially valuable in remote work settings, where communication happens exclusively through online platforms and project updates are implemented at a fast pace.
 
 #### My Specialty & Interests
 - Software Engineering
-- Finance
 - Data Science
 - Automation
+- Finance
 
 # 🛠️ Major Projects 🛠️
 ## Software Engineering
 
-### [Hi-Clear: Badminton Social App](https://github.com/sjkimplus/hi-clear)
+### [Hi-Clear: Badminton Social App](https://github.com/sjkimplus/hi-clear/blob/main/README-en.md)
 * __Aim__: Social app for badminton players where people can book private courts, check occupancy level of public courts, sign up for badminton clubs and one-time matches.
 * __Skills Deployed__: wireframing, Entity Relationship Diagram, CI/CD, unit testing, stress testing, concurrency control, R-Tree spacial indexing.
 * __Tools Used__: Springboot, REST API, MySQL, Redis, JPQL, JPA, QueryDSL, Locust, JUnit, Github Actions, AWS (ECS, EC2, RDS, ECR), Docker, Figma.
 
-### [Trello Clone Coding Project](https://github.com/sjkimplus/spring-trello)
+### [Trello Clone Coding Project](https://github.com/sjkimplus/spring-trello/blob/develop/README-en.md)
 * __Aim__: a work productivity application that facilitates online collaboration.
 * __Skills Deployed__: wireframing, Entity Relationship Diagram, OOP, CI/CD.
 * __Tools Used__: Springboot, REST API, MySQL, JPQL, JPA, JUnit, Github Actions, AWS, Figma.
@@ -34,7 +34,7 @@ capstone
 * __Skills Deployed__: web-scraping
 * __Tools Used__: Selenium, Python
 
-**If you want to see more of my minor projects, please head to my [workportfolio](https://github.com/sjkimplus/portfolio).**
+**If you want to see more of my other projects, please head to my [workportfolio](https://github.com/sjkimplus/portfolio).**
 
 # 🏆 Awards 🏆
 - Best Behavioral Economics Capstone 2024 | May 2024 
@@ -52,5 +52,5 @@ capstone
 ### 🤝 Contacts & Socials
 - 📧 E-mail: sjkim20010909@gmail.com
 - 🌐 [Linkedin](https://www.linkedin.com/in/sungju-kim-85399a210)
-- ✏️ [Tech Blog (velog)] (https://velog.io/@sjkimplus09/posts)
+- ✏️ [Tech Blog (velog)](https://velog.io/@sjkimplus09/posts)
 
