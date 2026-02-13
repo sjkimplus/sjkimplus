@@ -1,5 +1,5 @@
 # 👩🏻‍💻 About Me 👩🏻‍💻
-I am an aspiring Web Backend Software Engineer with a solid foundation in Economics and Finance. My strengths lie in quickly adapting to diverse and novel challenges, producing detailed documentation (such as technical blogs), and conducting thorough reviews of my work. These skills are especially valuable in remote work settings, where communication happens exclusively through online platforms and project updates are implemented at a fast pace.
+My strengths lie in quickly adapting to diverse and novel challenges, producing detailed documentation (such as technical blogs), and conducting thorough reviews of my work. These skills are especially valuable in remote work settings, where communication happens exclusively through online platforms and project updates are implemented at a fast pace.
 
 #### My Specialty & Interests
 - Software Engineering
